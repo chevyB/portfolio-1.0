@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-import ThemeToggler from './utils/themeToggler'
+import ThemeToggler from '/src/utils/themeToggler'
 
 export default function Home() {
   return (
